@@ -149,7 +149,7 @@ RDF · OWL · SPARQL · LOD · TEI/XML · XPath · Protégé
 <td><strong>Design, 3D & Visualization</strong></td>
 <td>
 <img src="https://skillicons.dev/icons?i=figma,blender" height="34" />
-&nbsp;&nbsp;s
+&nbsp;&nbsp;
 </td>
 </tr>
 </table>
