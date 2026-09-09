@@ -38,11 +38,12 @@ I am particularly interested in how computational methods can be used not only t
 Digital methods for documenting, interpreting and communicating archaeological and cultural heritage.
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ◉ Knowledge Representation
 
-Ontologies, semantic modelling, knowledge graphs and Linked Open Data.
+Ontologies, semantic modelling, knowledge graphs and Linked Open Data for cultural knowledge.
 
 </td>
 </tr>
@@ -52,14 +53,15 @@ Ontologies, semantic modelling, knowledge graphs and Linked Open Data.
 
 ### ◫ Data & Visualisation
 
-Exploring complex cultural datasets through data analysis and information visualisation.
+Data analysis and information visualisation for exploring complex cultural datasets.
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ✦ Digital Experiences
 
-Interaction design, web interfaces, digital exhibitions and creative coding for the humanities.
+Interaction design, web interfaces and creative coding for digital humanities projects.
 
 </td>
 </tr>
