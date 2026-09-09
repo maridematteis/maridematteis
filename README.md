@@ -169,22 +169,3 @@ A Linked Open Data project connecting heterogeneous cultural heritage objects re
 `Information Visualisation` · `Interaction Design` · `Creative Coding`
 
 </div>
-
----
-
-## ◇ A few things I like to build
-
-```text
-cultural object
-      │
-      ↓
-    data ───────── metadata
-      │               │
-      ↓               ↓
- knowledge ─────── relationships
-      │
-      ↓
- interpretation
-      │
-      ↓
- digital experience
