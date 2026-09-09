@@ -106,6 +106,22 @@ An interactive digital experience designed around the inaccessible Neolithic Gro
 <td align="center"><strong>03</strong></td>
 <td>
 
+### [Apollonian–Dionysian](https://github.com/aiMoirai/Apollonian-Dionysian)
+
+</td>
+<td>
+
+A virtual exhibition exploring the contrast between the Apollonian and the Dionysian through Nietzsche's thought.
+
+`HTML` `CSS` `JavaScript` `Digital Exhibition`
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>04</strong></td>
+<td>
+
 ### [Justinian LOD](https://github.com/Iustinianus-LOD/Justinian-LOD)
 
 </td>
@@ -115,21 +131,6 @@ A Linked Open Data project connecting heterogeneous cultural heritage objects re
 
 `LOD` `RDF` `Metadata` `TEI/XML` `Semantic Web`
 
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>04</strong></td>
-<td>
-
-### [Apollonian–Dionysian](https://github.com/aiMoirai/Apollonian-Dionysian)
-
-</td>
-<td>
-
-A virtual exhibition exploring the contrast between the Apollonian and the Dionysian through Nietzsche's thought.
-
-`HTML` `CSS` `JavaScript` `Digital Exhibition`
 
 </td>
 </tr>
