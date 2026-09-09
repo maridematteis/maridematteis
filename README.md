@@ -130,32 +130,33 @@ A Linked Open Data project connecting heterogeneous cultural heritage objects re
 
 ## ⌁ Languages & tools
 
-<div align="center">
+<table>
+<tr>
+<td width="22%"><strong>Development</strong></td>
+<td>
 
-### Development
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,sqlite,git,github,vscode" height="34" />
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,sqlite,git,github,vscode" />
+</td>
+</tr>
 
-<br><br>
+<tr>
+<td><strong>Semantic & DH</strong></td>
+<td>
 
-### Semantic & humanities technologies
+`RDF` · `OWL` · `SPARQL` · `LOD` · `TEI/XML` · `XPath` · `Protégé`
 
-`RDF` &nbsp; · &nbsp;
-`OWL` &nbsp; · &nbsp;
-`SPARQL` &nbsp; · &nbsp;
-`Linked Open Data` &nbsp; · &nbsp;
-`TEI/XML` &nbsp; · &nbsp;
-`XPath` &nbsp; · &nbsp;
-`Protégé`
+</td>
+</tr>
 
-<br><br>
+<tr>
+<td><strong>Design & visualisation</strong></td>
+<td>
 
-### Design & visualisation
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-&nbsp;&nbsp;
-
+<img src="https://skillicons.dev/icons?i=figma" height="30" />
+&nbsp;
 `Information Visualisation` · `Interaction Design` · `Creative Coding`
 
-</div>
+</td>
+</tr>
+</table>
