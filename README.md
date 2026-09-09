@@ -10,7 +10,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_De_Matteis-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariadematteis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Concetta_De_Matteis-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariadematteis)
 [![University](https://img.shields.io/badge/University_of_Bologna-Digital_Humanities-0D1117?style=flat-square)](https://www.unibo.it/)
 
 </div>
