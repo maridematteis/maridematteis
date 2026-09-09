@@ -31,7 +31,7 @@ I am particularly interested in how computational methods can be used not only t
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 ### 🏺 Digital Cultural Heritage
 
@@ -39,7 +39,7 @@ Digital methods for documenting, interpreting and communicating archaeological a
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 ### ◉ Knowledge Representation
 
@@ -49,7 +49,7 @@ Ontologies, semantic modelling, knowledge graphs and Linked Open Data for cultur
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 ### ◫ Data & Visualisation
 
@@ -57,7 +57,7 @@ Data analysis and information visualisation for exploring complex cultural datas
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 ### ✦ Digital Experiences
 
