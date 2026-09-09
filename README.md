@@ -146,11 +146,11 @@ RDF · OWL · SPARQL · LOD · TEI/XML · XPath · Protégé
 </tr>
 
 <tr>
-<td><strong>Design & visualisation</strong></td>
+<td><strong>Design, 3D & Visualization</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=figma" height="28" />
+<img src="https://skillicons.dev/icons?i=figma,blender" height="34" />
 &nbsp;&nbsp;
-Information Visualisation · Interaction Design · Creative Coding
+<img src="./assets/3df-zephyr.png" height="34" alt="3DF Zephyr" />
 </td>
 </tr>
 </table>
