@@ -1,16 +1,189 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maridematteis/maridematteis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/header.svg" width="100%" alt="Maria De Matteis — Archaeology, Data and Digital Humanities">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### archaeologist · digital humanist · knowledge modeller
+
+*Excavating the past, modelling knowledge, building digital experiences.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_De_Matteis-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariadematteis)
+[![University](https://img.shields.io/badge/University_of_Bologna-Digital_Humanities-0D1117?style=flat-square)](https://www.unibo.it/)
+
+</div>
+
+---
+
+## ◌ About me
+
+I'm an **archaeologist** currently studying **Digital Humanities and Digital Knowledge** at the University of Bologna.
+
+My interests lie at the intersection of **cultural heritage, data and digital technologies**: from semantic modelling and Linked Open Data to interactive visualisation, web technologies and creative approaches to cultural heritage.
+
+I am particularly interested in how computational methods can be used not only to **describe the past**, but also to connect, interpret and communicate it.
+
+---
+
+## ⟡ Areas of interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏺 Digital Cultural Heritage
+
+Digital methods for documenting, interpreting and communicating archaeological and cultural heritage.
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ Knowledge Representation
+
+Ontologies, semantic modelling, knowledge graphs and Linked Open Data.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◫ Data & Visualisation
+
+Exploring complex cultural datasets through data analysis and information visualisation.
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ Digital Experiences
+
+Interaction design, web interfaces, digital exhibitions and creative coding for the humanities.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⌘ Selected projects
+
+<table>
+<tr>
+<td width="8%" align="center"><strong>01</strong></td>
+<td width="27%">
+
+### [Dark Ontology](https://github.com/SicMundusOrganization/dark-ontology)
+
+</td>
+<td>
+
+An OWL ontology modelling identities, temporal manifestations, worlds, relationships and time travel in the TV series *Dark*.
+
+`OWL` `RDF` `SPARQL` `Protégé` `HTML` `CSS`
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>02</strong></td>
+<td>
+
+### [Dear Outsider](https://github.com/IMD-Rewind/DearOutsider)
+
+</td>
+<td>
+
+An interactive digital experience designed around the inaccessible Neolithic Grotta dei Cervi in Porto Badisco.
+
+`Digital Heritage` `UX/UI` `Interaction Design` `HTML` `CSS`
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>03</strong></td>
+<td>
+
+### [Justinian LOD](https://github.com/Iustinianus-LOD/Justinian-LOD)
+
+</td>
+<td>
+
+A Linked Open Data project connecting heterogeneous cultural heritage objects related to the Byzantine emperor Justinian I.
+
+`LOD` `RDF` `Metadata` `TEI/XML` `Semantic Web`
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>04</strong></td>
+<td>
+
+### [Apollonian–Dionysian](https://github.com/aiMoirai/Apollonian-Dionysian)
+
+</td>
+<td>
+
+A virtual exhibition exploring the contrast between the Apollonian and the Dionysian through Nietzsche's thought.
+
+`HTML` `CSS` `JavaScript` `Digital Exhibition`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⌁ Languages & tools
+
+<div align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,sqlite,git,github,vscode" />
+
+<br><br>
+
+### Semantic & humanities technologies
+
+`RDF` &nbsp; · &nbsp;
+`OWL` &nbsp; · &nbsp;
+`SPARQL` &nbsp; · &nbsp;
+`Linked Open Data` &nbsp; · &nbsp;
+`TEI/XML` &nbsp; · &nbsp;
+`XPath` &nbsp; · &nbsp;
+`Protégé`
+
+<br><br>
+
+### Design & visualisation
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+&nbsp;&nbsp;
+
+`Information Visualisation` · `Interaction Design` · `Creative Coding`
+
+</div>
+
+---
+
+## ◇ A few things I like to build
+
+```text
+cultural object
+      │
+      ↓
+    data ───────── metadata
+      │               │
+      ↓               ↓
+ knowledge ─────── relationships
+      │
+      ↓
+ interpretation
+      │
+      ↓
+ digital experience
