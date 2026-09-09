@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Maria De Matteis — Archaeology, Data and Digital Humanities">
+<img src="./assets/header.png" width="100%" alt="Maria De Matteis — Archaeology, Data and Digital Humanities">
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_De_Matteis-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariadematteis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Concetta_De_Matteis-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariadematteis)
 [![University](https://img.shields.io/badge/University_of_Bologna-Digital_Humanities-0D1117?style=flat-square)](https://www.unibo.it/)
 
 </div>
@@ -31,36 +31,26 @@ I am particularly interested in how computational methods can be used not only t
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏺 Digital Cultural Heritage
-
-Digital methods for documenting, interpreting and communicating archaeological and cultural heritage.
-
+<td width="50%" align="center" valign="top">
+<h4>🏺 Digital Cultural Heritage</h4>
+Digital methods for documenting, interpreting and communicating archaeological and cultural heritage.<br><br>
 </td>
-<td width="50%" valign="top">
 
-### ◉ Knowledge Representation
-
-Ontologies, semantic modelling, knowledge graphs and Linked Open Data.
-
+<td width="50%" align="center" valign="top">
+<h4>◉ Knowledge Representation</h4>
+Ontologies, semantic modelling, knowledge graphs and Linked Open Data for cultural knowledge.<br><br>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### ◫ Data & Visualisation
-
-Exploring complex cultural datasets through data analysis and information visualisation.
-
+<td width="50%" align="center" valign="top">
+<h4>◫ Data & Visualisation</h4>
+Data analysis and information visualisation for exploring complex cultural datasets.<br><br>
 </td>
-<td width="50%" valign="top">
 
-### ✦ Digital Experiences
-
-Interaction design, web interfaces, digital exhibitions and creative coding for the humanities.
-
+<td width="50%" align="center" valign="top">
+<h4>✦ Digital Experiences</h4>
+Interaction design, web interfaces and creative coding for digital humanities projects.<br><br>
 </td>
 </tr>
 </table>
@@ -140,51 +130,27 @@ A Linked Open Data project connecting heterogeneous cultural heritage objects re
 
 ## ⌁ Languages & tools
 
-<div align="center">
+<table>
+<tr>
+<td width="22%"><strong>Development</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,sqlite,git,github,vscode" height="34" />
+</td>
+</tr>
 
-### Development
+<tr>
+<td><strong>Semantic & DH</strong></td>
+<td>
+RDF · OWL · SPARQL · LOD · TEI/XML · XPath · Protégé
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,sqlite,git,github,vscode" />
-
-<br><br>
-
-### Semantic & humanities technologies
-
-`RDF` &nbsp; · &nbsp;
-`OWL` &nbsp; · &nbsp;
-`SPARQL` &nbsp; · &nbsp;
-`Linked Open Data` &nbsp; · &nbsp;
-`TEI/XML` &nbsp; · &nbsp;
-`XPath` &nbsp; · &nbsp;
-`Protégé`
-
-<br><br>
-
-### Design & visualisation
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
+<tr>
+<td><strong>Design, 3D & Visualization</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=figma,blender" height="34" />
 &nbsp;&nbsp;
-
-`Information Visualisation` · `Interaction Design` · `Creative Coding`
-
-</div>
-
----
-
-## ◇ A few things I like to build
-
-```text
-cultural object
-      │
-      ↓
-    data ───────── metadata
-      │               │
-      ↓               ↓
- knowledge ─────── relationships
-      │
-      ↓
- interpretation
-      │
-      ↓
- digital experience
+<img src="./assets/3df-zephyr.png" height="34" alt="3DF Zephyr" />
+</td>
+</tr>
+</table>
