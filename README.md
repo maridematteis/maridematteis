@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Maria De Matteis — Archaeology, Data and Digital Humanities">
+<img src="./assets/header.png" width="100%" alt="Maria De Matteis — Archaeology, Data and Digital Humanities">
 
 <br>
 
