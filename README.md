@@ -149,8 +149,7 @@ RDF · OWL · SPARQL · LOD · TEI/XML · XPath · Protégé
 <td><strong>Design, 3D & Visualization</strong></td>
 <td>
 <img src="https://skillicons.dev/icons?i=figma,blender" height="34" />
-&nbsp;&nbsp;
-<img src="./assets/3df-zephyr.png" height="34" alt="3DF Zephyr" />
+&nbsp;&nbsp;s
 </td>
 </tr>
 </table>
